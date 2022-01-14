@@ -1,4 +1,4 @@
-### Oi, me chamo Lucas sou desenvolvedor Back end
+### Olá, me chamo Lucas sou desenvolvedor Back end
 
 <div align="center">
   <a href="https://github.com/lucastavaresas">
